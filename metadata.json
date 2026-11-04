@@ -1,0 +1,6 @@
+{
+  "name": "Iron Meridian: Asymmetric Tactical Command",
+  "description": "3D Modern Tactical/Action hybrid game and unabridged AA/AAA systems architecture featuring seamless 1st/3rd-person POV toggling ('C' key), cross-faction Scavenge & Retrofit tech progression, firearm/sword/HP combat state machines, and a 50-of-500 objective multi-biome theater.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
